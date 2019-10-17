@@ -1,7 +1,7 @@
 ﻿//**************************************************************
 //Programmer : Asim Subedi
 //Programming in Visual Studio 2019 
-//Date : 16/09/2019
+//Date : 17/10/2019
 //Software : Microsoft Visual Studio 2019 Community Edition
 //Platform : Microsoft Windows 10 Professional 64-bit
 //Purpose : Creates window form application on a 1D array
