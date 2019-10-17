@@ -1,4 +1,15 @@
-﻿using System;
+﻿//**************************************************************
+//Programmer : Asim Subedi
+//Programming in Visual Studio 2019 
+//Date : 16/09/2019
+//Software : Microsoft Visual Studio 2019 Community Edition
+//Platform : Microsoft Windows 10 Professional 64-bit
+//Purpose : Creates window form application on a 1D array
+//**************************************************************
+
+
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -21,7 +32,7 @@ namespace Comparator
 
         class Student : IComparable  //Creating Student class using Icomparable 
         {
-            public string name { get; set; }    
+            public string name { get; set; }        
             public int id { get; set; }
             public string address { get; set; }
             public decimal fee { get; set; }
